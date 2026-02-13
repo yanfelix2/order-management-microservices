@@ -11,7 +11,7 @@ The system is divided into two main services:
 
 ## 🛠️ Technologies Used
 
-* **Java 17/21**
+* **Java 21**
 * **Spring Boot 3+**
 * **Spring Data JPA**
 * **MySQL** (Persistence)
