@@ -26,7 +26,7 @@ The system is divided into two main services:
 
 ## 📈 Planned Features (Roadmap)
 
-As tracked in our project [Issues](link_to_your_issue_here), the next steps include:
+As tracked in our project [Issues](https://github.com/yanfelix2/order-management-microservices/issues/1), the next steps include:
 * Implementing **Docker** and **Docker Compose** for orchestration.
 * Environment configuration for **AWS** deployment.
 * Exploring **Kafka** for high-throughput event streaming.
